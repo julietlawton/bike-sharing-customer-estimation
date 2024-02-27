@@ -17,7 +17,7 @@ This section contains the code for exploratory data analysis and preprocessing.
 - Categorical features are one hot encoded.
 - Distance correlations are generated for various continuous independent variables.
 # Time Series Forecasting
-This section will reference the Tensorflow [Time Series Tutorial](https://www.tensorflow.org/tutorials/structured_data/time_series) documentation.
+This section references the Tensorflow [Time Series Tutorial](https://www.tensorflow.org/tutorials/structured_data/time_series) documentation.
 - Data is split into 70% training, 20% validation, and 10% testing.
 - Datasets are normalized in the training model and reverse normalized for the outputs.
 - `WindowGenerator` defines the window size.
